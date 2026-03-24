@@ -1,0 +1,13 @@
+# Eclipse
+.metadata/
+.settings/
+.project
+.classpath
+
+# Compilação Java
+bin/
+*.class
+
+# Arquivos temporários
+*.log
+*.zip
