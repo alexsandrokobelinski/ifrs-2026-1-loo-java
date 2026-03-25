@@ -1,4 +1,4 @@
-package lista03;
+package exercicio02;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package lista03;
+package exercicio01;
 
 public class Lampada {
 	/*
