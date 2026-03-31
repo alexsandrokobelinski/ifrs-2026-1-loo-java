@@ -60,7 +60,7 @@ public class Veiculo {
             System.out.println("Combustível trocado para: " + tipo);
 
         } else {
-            System.out.println("Erro: combustível inválido para a frota.");
+        	throw new IllegalArgumentException ("Erro: combustível inválido para a frota.");
         }
     }
 
